@@ -9,7 +9,9 @@
       "email": "steve@mydev.co"
     }
   ],
-  "dependencies": {},
+  "dependencies": {
+    "cross-spawn": "^4.0.2"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-nodeunit": "^0.4.1",
